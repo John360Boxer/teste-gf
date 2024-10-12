@@ -17,7 +17,7 @@ Os seguintes passos iniciam o projeto:
 Finalizado as preparações, utilize o Swagger para realizar as requisições GET. Ele pode ser acessado por meio do seguinte link:
 ```
 http://localhost:8080/swagger-ui/index.html#/
-
+```
 
 Uma vez acessado a página, as requisições GET podem ser feitas através do digimon-controller. Para testar uma rota, é necessário expandir seu menu e clicar na opção ``` Try it out ```, e posteriormente executá-la por meio da opção ``` Run ```.
 
