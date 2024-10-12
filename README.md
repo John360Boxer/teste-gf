@@ -17,3 +17,11 @@ Os seguintes passos iniciam o projeto:
 Finalizado as preparações, utilize o Swagger para realizar as requisições GET. Ele pode ser acessado por meio do seguinte link:
 ```
 http://localhost:8080/swagger-ui/index.html#/
+
+Uma vez acessado a página, as requisições GET podem ser feitas através do digimon-controller:
+
+| Nome | Parâmetros | Descrição |
+| --- | --- | --- |
+| / | Nenhum | Retorna todos os Digimons presentes no BD |
+| /name | Nome | Retorna o Digimon baseado no nome, caso exista |
+| /level | Nível | Retorna todos os Digimons que tenham o mesmo nível mencionado |

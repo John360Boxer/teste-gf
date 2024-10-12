@@ -23,7 +23,3 @@ import com.digimon.teste_gf.service.DigimonService;
 			digimonService.fetchAndSaveDigimons();
 		}
 	}
-//Comentar código
-//Teste unitário usando o JUNIT
-//Documentar o swagger
-//readme -> github
